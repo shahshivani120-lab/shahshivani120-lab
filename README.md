@@ -108,8 +108,16 @@ Steal my working methods. Each repo is a ready-to-use kit:
 
 ## 🤝 Work with me
 
-- **Full-time:** Growth Marketing · SEO & AI Search · Performance Marketing · Content & SEO
-- **Freelance for founders:** LinkedIn ghostwriting & personal branding · AI search visibility audits · Paid ads + funnel audits · Ongoing growth retainers
+**Full-time roles:** Growth Marketing · SEO & AI Search · Performance Marketing · Content & SEO
+
+**Freelance for founders:**
+
+| Service | What you get | Price |
+|---|---|---|
+| ✍️ **LinkedIn ghostwriting** | 12 posts a month (3 a week) in your voice, with topics, hooks and profile positioning | **from US$500/month** |
+| 🔎 **AI search visibility audit** | What ChatGPT, Perplexity, Gemini, Copilot and AI Overviews say about you, who gets cited instead, and a prioritised fix list | **from US$199** |
+| 📊 **Paid ads + funnel audit** | Wasted spend, tracking gaps and the path from click to qualified lead, across Meta and Google Ads | **from US$199** |
+| 🚀 **Growth retainer** | Full-time, dedicated: buyer-intent content, SEO/AEO, Meta and Google Ads, design and monthly reporting | **from US$2,000/month** |
 
 📅 **[Book a free 20-minute intro call](https://calendly.com/shahshivani120)** · 📫 [shahshivani120@gmail.com](mailto:shahshivani120@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/shivanishah-growth)
 
