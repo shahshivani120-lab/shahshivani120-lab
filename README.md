@@ -8,7 +8,12 @@ Digital marketing and growth manager with 7+ years across agency, startup, B2B S
 
 📍 Mumbai, India · 🌏 Open to remote roles and freelance projects (US, UK, Australia, Canada, any time zone)
 
-[![Book a free 20-min intro call](https://img.shields.io/badge/📅_Book_a_free_20--min_call-c8471d?style=for-the-badge)](https://calendly.com/shahshivani120) [![Portfolio](https://img.shields.io/badge/Portfolio-1b1814?style=for-the-badge)](https://shahshivani120-lab.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanishah-growth) [![Email](https://img.shields.io/badge/Email-22513f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahshivani120@gmail.com)
+<p>
+<a href="https://calendly.com/shahshivani120"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-book-dark.svg"><img src="assets/btn-book-light.svg" alt="Book a free 20-min call" height="46"></picture></a>
+<a href="https://shahshivani120-lab.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio-light.svg" alt="Portfolio" height="46"></picture></a>
+<a href="https://www.linkedin.com/in/shivanishah-growth"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" alt="LinkedIn" height="46"></picture></a>
+<a href="mailto:shahshivani120@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" alt="Email" height="46"></picture></a>
+</p>
 
 ---
 
