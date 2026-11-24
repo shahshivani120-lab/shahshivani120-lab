@@ -18,7 +18,8 @@ Digital marketing and growth manager with 7+ years across agency, startup, B2B S
 | **9.5K** | AI citations in Microsoft Copilot & partners over 3 months |
 | **86%** | AI citation share for "best performance management software for law firms" |
 | **79** | WhatsApp/Messenger contacts for an Australian SaaS at ~US$13 each |
-| **73.3K** | LinkedIn impressions in 7 days for the founder of a US-based B2B IT company I ghostwrite for (+3,077% week over week) |
+| **73.3K** | LinkedIn impressions in 7 days for Brijesh, founder of US B2B IT company SNDK Corp, whom I ghostwrite for (+3,077% week over week) |
+| **~4x** | Cheaper Meta Ads chats from the winning hook (17 hooks tested for an Australian SaaS) |
 | **1,647** | Google clicks for new restaurant websites in their first 3 months |
 
 ---
@@ -54,12 +55,19 @@ Websites, content, design and lead generation for brands in India, Australia and
 - **Meta Ads:** Costs ranged ~10x across 19 campaigns; testing hooks and offers before scaling brought the best campaigns to <40% of the account average.
 - **Funnel (GA4):** Organic visitors enquired at 2.12% vs 0.55% for direct, but only ~8% reached pricing, so I prioritised CTA hierarchy, navigation, UTMs and qualified-lead tracking.
 
-### LinkedIn ghostwriting — Personal brand for a US B2B IT founder
-*Founder of a US-based B2B IT company (client anonymised), LinkedIn analytics, 17–23 Nov 2026*
-- **What I do:** Capture the founder's voice and opinions, write posts around buyer problems with strong hooks, and shape the profile so attention turns into visits and clicks.
-- **Reach:** 73,322 impressions (+3,077% vs prior 7 days), 48,750 members reached, 93% from outside the founder's network.
-- **Engagement:** 197 social engagements (120 reactions, 64 comments, 10 saves, 3 sends) and 13 link clicks.
-- **Brand lift:** 263 profile viewers (+298%) on a following of ~17K.
+### RestoGenius Meta Ads — Testing 17 hooks to find the message café owners reply to
+*Paid social · Australian restaurant-tech SaaS · Feb – Nov 2026* · [📄 Full case study (PDF)](https://shahshivani120-lab.github.io/case-studies/Meta_Ads_Case_Study_Shivani_Shah.pdf)
+- **Set-up:** Every ad on the messaging objective, one hook per ad, ₹280–₹500 a day, seven themes tested (free hardware, a named $89 price, fees, hidden add-ons, menu insights, ops pain, delivery commissions).
+- **What worked:** "Free hardware / no upfront cost" got chats at ₹686, ~4x cheaper than delivery-commission hooks (₹3,021). Naming the $89 price halved cost per chat (₹958 vs ₹2,136). Best ad: ₹512 vs ₹1,371 account average.
+- **Creative fatigue:** In a small audience, re-running a winner 3 months later cost +160%, so each push now gets fresh creative on a proven offer.
+- **Q4:** The winning offer led Black Friday at US$20.67 per chat, about half the Brisbane WhatsApp video campaign (US$42.55). 79 contacts in 2026 at ~US$13 each.
+
+### LinkedIn ghostwriting — 73K impressions in one week for a B2B IT founder
+*Brijesh, founder of SNDK Corp (US B2B IT: cloud & AWS, networking, security, custom software) · Nov 17–23, 2026* · [📄 Full case study (PDF)](https://shahshivani120-lab.github.io/case-studies/LinkedIn_Ghostwriting_Case_Study_Shivani_Shah.pdf)
+- **How I work:** Voice → topic bank → hooks & drafts → publish under his name → learn from impressions, comments and profile views.
+- **Reach:** 73,322 impressions (+3,077% vs ~2,300 the week before); 48,750 members reached, almost 3x his 16,992 followers; 93% from outside his network.
+- **Engagement:** 197 social engagements, 64 comments (53 per 100 reactions), 10 saves, 3 sends.
+- **Buyer intent:** 263 profile viewers (+298%) and 13 clicks on his Premium custom button.
 
 ### Published work
 📰 *"The Architecture of Silence: Why Law Firm Upward Reviews Fail"* — bylined feature, NALP Bulletin, July/August 2026.
