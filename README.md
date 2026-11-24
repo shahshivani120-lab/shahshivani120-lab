@@ -18,7 +18,7 @@ Digital marketing and growth manager with 7+ years across agency, startup, B2B S
 | **9.5K** | AI citations in Microsoft Copilot & partners over 3 months |
 | **86%** | AI citation share for "best performance management software for law firms" |
 | **79** | WhatsApp/Messenger contacts for an Australian SaaS at ~US$13 each |
-| **73.3K** | LinkedIn impressions in 7 days for a B2B founder I ghostwrite for (+3,077% week over week) |
+| **73.3K** | LinkedIn impressions in 7 days for the founder of a US-based B2B IT company I ghostwrite for (+3,077% week over week) |
 | **1,647** | Google clicks for new restaurant websites in their first 3 months |
 
 ---
@@ -54,8 +54,8 @@ Websites, content, design and lead generation for brands in India, Australia and
 - **Meta Ads:** Costs ranged ~10x across 19 campaigns; testing hooks and offers before scaling brought the best campaigns to <40% of the account average.
 - **Funnel (GA4):** Organic visitors enquired at 2.12% vs 0.55% for direct, but only ~8% reached pricing, so I prioritised CTA hierarchy, navigation, UTMs and qualified-lead tracking.
 
-### LinkedIn ghostwriting — Personal brand for a B2B founder
-*One founder account (client anonymised), LinkedIn analytics, 17–23 Nov 2026*
+### LinkedIn ghostwriting — Personal brand for a US B2B IT founder
+*Founder of a US-based B2B IT company (client anonymised), LinkedIn analytics, 17–23 Nov 2026*
 - **What I do:** Capture the founder's voice and opinions, write posts around buyer problems with strong hooks, and shape the profile so attention turns into visits and clicks.
 - **Reach:** 73,322 impressions (+3,077% vs prior 7 days), 48,750 members reached, 93% from outside the founder's network.
 - **Engagement:** 197 social engagements (120 reactions, 64 comments, 10 saves, 3 sends) and 13 link clicks.
