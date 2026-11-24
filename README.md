@@ -8,6 +8,8 @@ Digital marketing and growth manager with 7+ years across agency, startup, B2B S
 
 📍 Mumbai, India · 🌏 Open to remote roles and freelance projects (US, UK, Australia, Canada, any time zone)
 
+[![Book a free 20-min intro call](https://img.shields.io/badge/📅_Book_a_free_20--min_call-c8471d?style=for-the-badge)](https://calendly.com/shahshivani120) [![Portfolio](https://img.shields.io/badge/Portfolio-1b1814?style=for-the-badge)](https://shahshivani120-lab.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanishah-growth) [![Email](https://img.shields.io/badge/Email-22513f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahshivani120@gmail.com)
+
 ---
 
 ## 📈 Highlights
@@ -86,9 +88,24 @@ Websites, content, design and lead generation for brands in India, Australia and
 
 ---
 
+## 🧰 Free templates
+
+Steal my working methods. Each repo is a ready-to-use kit:
+
+| Repo | What it's for |
+|---|---|
+| [**ai-search-visibility-audit**](https://github.com/shahshivani120-lab/ai-search-visibility-audit) | Audit what ChatGPT, Perplexity, Gemini, Copilot and AI Overviews say about a brand |
+| [**linkedin-founder-ghostwriting-playbook**](https://github.com/shahshivani120-lab/linkedin-founder-ghostwriting-playbook) | Voice interview, topic bank, hook formulas and a tracker for founder-led LinkedIn |
+| [**meta-ads-message-testing**](https://github.com/shahshivani120-lab/meta-ads-message-testing) | Test one hook per ad on small budgets and find the message buyers reply to |
+| [**b2b-utm-ga4-lead-tracking**](https://github.com/shahshivani120-lab/b2b-utm-ga4-lead-tracking) | UTM naming rules, GA4 key events and lead-quality tracking for B2B SaaS |
+
+---
+
 ## 🤝 Work with me
 
 - **Full-time:** Growth Marketing · SEO & AI Search · Performance Marketing · Content & SEO
 - **Freelance for founders:** LinkedIn ghostwriting & personal branding · AI search visibility audits · Paid ads + funnel audits · Ongoing growth retainers
 
-📫 [shahshivani120@gmail.com](mailto:shahshivani120@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/shivanishah-growth)
+📅 **[Book a free 20-minute intro call](https://calendly.com/shahshivani120)** · 📫 [shahshivani120@gmail.com](mailto:shahshivani120@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/shivanishah-growth)
+
+<sub>Last updated: November 2026</sub>
